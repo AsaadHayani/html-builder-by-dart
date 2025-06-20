@@ -35,6 +35,7 @@ This project is a **Dart-based Web Page Builder** that allows you to dynamically
 ## 📸 Screenshots
 
 ![Program](screenshots/program.png)
+
 ![Files](screenshots/files.png)
 
 ---
@@ -67,4 +68,3 @@ Make sure Dart SDK is installed. Then:
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-هل هذا المحتوى صحيح؟
